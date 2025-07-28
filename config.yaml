@@ -1,0 +1,45 @@
+baseURL: "https://arielberdah.com/"
+languageCode: "fr-fr"
+title: "Ariel Berdah"
+theme: "PaperMod"
+
+enableInlineShortcodes: true
+pagination:
+  pagerSize: 10
+
+params:
+  profileMode:
+    enabled: true
+    title: "Ariel Berdah"
+    subtitle: "Développeur Full Stack | Linux | DevOps | QA Automation"
+    imageUrl: "images/ariel.jpg"
+    imageTitle: "Ariel Berdah"
+    buttons:
+      - name: Blog
+        url: posts
+      - name: Github
+        url: "https://github.com/ArielBrdah"
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/ArielBrdah"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/arielcberdah/"
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: About
+      url: /about
+      weight: 2
+    - name: Blog
+      url: /posts/
+      weight: 3
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
