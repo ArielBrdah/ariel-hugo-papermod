@@ -2,26 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bienvenue on Ariel Berdah</title>
-    <link>http://localhost:1313/</link>
+    <link>https://arielberdah.com/</link>
     <description>Recent content in Bienvenue on Ariel Berdah</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arielberdah.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>À propos de moi</title>
-      <link>http://localhost:1313/about/</link>
+      <title>About me</title>
+      <link>https://arielberdah.com/about/</link>
       <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Je suis &lt;strong&gt;Ariel Berdah&lt;/strong&gt;, développeur Full Stack basé à Netanya 🇮🇱.&lt;/p&gt;
-&lt;p&gt;J’ai travaillé avec Laravel, React, Node.js, MySQL, Docker, et plus encore.&lt;br&gt;
-Je conçois des solutions web performantes et modernes, en m&amp;rsquo;appuyant sur mes compétences DevOps, front-end et back-end.&lt;/p&gt;</description>
+      <guid>https://arielberdah.com/about/</guid>
+      <description>&lt;p&gt;Hello, my name is Ariel Berdah.
+I am a software developer passionate about application development and server configuration to deploy IT solutions.
+I have gained extensive experience managing projects from start to finish.
+I am curious and highly motivated.
+You can find me on LinkedIn, GitHub, or on my blog to discover more about me.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mon premier article</title>
-      <link>http://localhost:1313/posts/mon-premier-article/</link>
+      <link>https://arielberdah.com/posts/mon-premier-article/</link>
       <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mon-premier-article/</guid>
+      <guid>https://arielberdah.com/posts/mon-premier-article/</guid>
       <description>&lt;p&gt;Bienvenue sur mon blog ! Voici mon premier article rédigé avec Hugo.&lt;/p&gt;</description>
     </item>
   </channel>

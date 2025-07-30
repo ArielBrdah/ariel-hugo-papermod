@@ -11,7 +11,7 @@ params:
   profileMode:
     enabled: true
     title: "Ariel Berdah"
-    subtitle: "Développeur Full Stack | Linux | DevOps | QA Automation"
+    subtitle: "Full Stack developer | Linux | DevOps | QA Automation"
     imageUrl: "images/ariel.jpg"
     imageTitle: "Ariel Berdah"
     buttons:
